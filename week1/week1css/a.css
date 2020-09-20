@@ -1,0 +1,30 @@
+ #header {
+   background-color: green;
+   color:white;
+   text-align: center;
+   padding:10px;
+   margin-bottom: 0px;
+ }
+
+ #nav {
+   line-height: 30px;
+   background-color: grey;
+   height: 300px;
+   width: 100px;
+   float:left;
+   padding:5px;;
+   
+ }
+
+ #section {
+   padding: 10px;
+   margin-left:120px;
+ }
+
+ #footer{
+   background-color: green;
+   color:white;
+   clear:both;
+   text-align: center;
+   padding: 5px;
+ }

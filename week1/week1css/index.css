@@ -1,0 +1,21 @@
+
+
+      h1 {
+            border : solid;
+            border-width: 2px;
+            font:bold;
+      }
+
+      p { 
+          color:red;
+          font-size: 12px;
+      }
+
+      #a { background: yellow ;}
+
+      
+      .special {
+                color:green;
+                font-size: 25px;
+
+      }
